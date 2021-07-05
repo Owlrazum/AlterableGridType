@@ -5,4 +5,4 @@ The main feature of this project is the ability for the player to change the typ
 With this feature in mind, a multiplayer snake game has been chosen to "implement" it. Currently, it is not a finished product and still needs further development.
 
 ## Youtube link
-https://youtu.be/vQ1Enf3PyNo
+Demo video: https://youtu.be/vQ1Enf3PyNo
